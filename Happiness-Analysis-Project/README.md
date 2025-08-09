@@ -14,7 +14,7 @@ Happiness-Analysis-Project/
 ├── app.R             # Shiny Dashboard Application
 ├── analysis.R        # Data Analysis and Modeling Script
 ├── README.md         # Project Documentation
-
+```
 🛠️ Tech Stack
 R Programming Language
 
@@ -92,5 +92,6 @@ Add time-series analysis for multi-year happiness trends
 Deploy the Shiny app online (using ShinyApps.io)
 
 Integrate machine learning models for advanced prediction (Random Forests, XGBoost)
+
 
 
