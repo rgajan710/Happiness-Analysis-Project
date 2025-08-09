@@ -15,7 +15,9 @@ Happiness-Analysis-Project/
 ├── analysis.R        # Data Analysis and Modeling Script
 ├── README.md         # Project Documentation
 ```
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
 R Programming Language
 
 Libraries Used:
@@ -30,7 +32,8 @@ shiny + shinydashboard (web dashboard)
 
 caret (model evaluation)
 
-📊 Features
+## 📊 Features
+
 Clean and preprocess the global happiness dataset
 
 Perform exploratory data analysis (EDA)
@@ -49,14 +52,16 @@ Select variables for visualization
 
 View summary statistics dynamically
 
-📈 Key Findings
+## 📈 Key Findings
+
 GDP per Capita, Social Support, and Healthy Life Expectancy are strong predictors of Happiness Score.
 
 Countries with higher GDP generally report higher happiness, but other factors like freedom and social support are equally important.
 
 Linear regression model achieved a reasonably high Adjusted R² value, showing a good fit.
 
-🚀 How to Run
+## 🚀 How to Run
+
 Clone the repository or download the project files.
 
 Place the dataset inside the data/ folder.
@@ -79,12 +84,12 @@ Edit
 shiny::runApp()
 The app will automatically open in your web browser.
 
-📂 Dataset
+## 📂 Dataset
 Name: World Happiness Report
 
 Source: Kaggle Dataset Link
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 Implement clustering to group countries with similar happiness profiles
 
 Add time-series analysis for multi-year happiness trends
@@ -92,6 +97,7 @@ Add time-series analysis for multi-year happiness trends
 Deploy the Shiny app online (using ShinyApps.io)
 
 Integrate machine learning models for advanced prediction (Random Forests, XGBoost)
+
 
 
 
